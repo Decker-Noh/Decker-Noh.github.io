@@ -1,15 +1,15 @@
-title: example.com
-description: "Satellite - jekyll blog theme"
+title: 노순건
+description: "개발 일기"
 logo_img: "/assets/img/favicon.webp"
 profile_img: "/assets/img/profile.webp"
 
 # Social Links
-email: example@gmail.com
-github_username: github
-twitter_username: twitter
-instagram_username: instagram
-linkedin_username: linkedin
-facebook_username: facebook
+email: soongun93@gmail.com
+github_username: Decker-Noh
+twitter_username: none
+instagram_username: none
+linkedin_username: none
+facebook_username: none
 
 # External API
 giscus_repo: "byanko55/jekyll-theme-satellite"
@@ -39,15 +39,14 @@ collections:
     permalink: /:path.html
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "pages"
     values:
       layout: "page"
       date: "1900-01-01"
 
-# Markdown newline activator 
+# Markdown newline activator
 kramdown:
   input: GFM
   hard_wrap: true
