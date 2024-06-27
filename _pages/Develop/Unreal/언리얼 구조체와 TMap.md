@@ -1,7 +1,7 @@
 ---
 title: "[Unreal] 구조체와 TMap"
 date: "2024-6-27"
-thumbnail: "/assets/img/book.jpg"
+thumbnail: "/assets/img/unreal.jpg"
 ---
 
 # [Unreal] 언리얼 구조체와 TMap
@@ -19,8 +19,6 @@ thumbnail: "/assets/img/book.jpg"
     - struct : public
   - struct는 사용 목적에 있어 데이터 처리에 주로 쓰임
 - 제한적으로 리플렉션 지원(UPROPERTY 지원, UFUNCTION 미지원) -> 데이터 처리용이니까?
-
-
 
 ## TMap
 
