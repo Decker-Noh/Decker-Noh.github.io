@@ -1,6 +1,7 @@
 ---
 title: "블로그 작성 이유"
 date: "2024-6-27"
+thumbnail: "/assets/img/study.jpg"
 ---
 
 # 블로그 작성이유

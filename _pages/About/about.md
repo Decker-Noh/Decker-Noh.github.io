@@ -1,6 +1,7 @@
 ---
 title: "About"
 date: "2024-6-27"
+thumbnail: "/assets/img/study.jpg"
 ---
 
 # 안녕하세요
