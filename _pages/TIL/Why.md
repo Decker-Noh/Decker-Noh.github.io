@@ -1,0 +1,16 @@
+---
+title: "jekyll Github page, unreal"
+date: "2024-6-27"
+---
+
+# 2024-06-26 TIL
+
+## 오늘 한일
+
+- jekyll 테마로 github page 만들기
+  - 제키투가 아니라 지킬이었다니?
+  - 노트북 용량이 부족해서 푸쉬해서 페이지 확인한 나.
+  - 초보몽키님의 일기형식 TIL 방식이 마음에 들었다.
+  - jekyll-theme-satellite 템플릿 사용
+  - [테마 글 작성방법 숙지](https://github.com/byanko55/jekyll-theme-satellite/blob/master/docs/Posting%20Guide.md)
+  - [테마 댓글 시스템 활성화](https://github.com/byanko55/jekyll-theme-satellite/blob/master/docs/Comment%20System.md)
