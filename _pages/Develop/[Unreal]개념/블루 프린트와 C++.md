@@ -1,6 +1,6 @@
 ---
 title: "[Unreal] 블루 프린트와 C++ 장단점"
-date: "2024-7-3"
+date: "2024-7-5"
 thumbnail: "/assets/img/unreal.jpg"
 ---
 
